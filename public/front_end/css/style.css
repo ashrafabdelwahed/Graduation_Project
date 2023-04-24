@@ -1,0 +1,39 @@
+a {
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+
+.navbar .fa-heart {
+  -webkit-transform: rotate(321deg);
+          transform: rotate(321deg);
+}
+
+.experiences {
+  background: #f8f9fb;
+  -webkit-box-shadow: 3px 3px 15px -2px #686ee057;
+          box-shadow: 3px 3px 15px -2px #686ee057;
+}
+
+.experiences .card {
+  -webkit-box-shadow: 4px 7px 11px 3px #53535329;
+          box-shadow: 4px 7px 11px 3px #53535329;
+}
+
+.experiences_single, .cancer_single {
+  background: #f8f9fb;
+}
+
+.experiences_single .exp-text, .cancer_single .exp-text {
+  font-weight: 800;
+  line-height: 1.9;
+  font-size: 22px;
+  text-align: right;
+  font-family: sans-serif;
+}
+
+.experiences_single .video, .cancer_single .video {
+  -webkit-box-shadow: 4px 7px 11px 3px #53535329;
+          box-shadow: 4px 7px 11px 3px #53535329;
+}
+/*# sourceMappingURL=style.css.map */

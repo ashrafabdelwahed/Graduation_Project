@@ -1,0 +1,19 @@
+table {
+    background-color: #fff !important;
+}
+
+thead tr th{
+
+    color: #fff;
+    background-color: #343a40;
+    border-color: #454d55;
+    font-size: 14px !important;
+    font-weight: bold;
+
+}
+
+
+div.dataTables_wrapper div.dataTables_filter input {
+    margin-left: 0;
+    margin-right: 0.8em;
+}

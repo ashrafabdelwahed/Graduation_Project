@@ -1,0 +1,40 @@
+a {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.navbar {
+    .fa-heart {
+        transform: rotate(321deg);
+    }
+}
+
+
+.experiences {
+    background: #f8f9fb;
+    box-shadow: 3px 3px 15px -2px #686ee057;
+
+    .card {
+        box-shadow: 4px 7px 11px 3px #53535329
+
+    }
+}
+
+
+.experiences_single, .cancer_single {
+    background: #f8f9fb;
+
+    .exp-text {
+        font-weight: 800;
+        line-height: 1.9;
+        font-size: 22px;
+        text-align: right;
+        font-family:sans-serif;
+    }
+
+
+    .video {
+        box-shadow: 4px 7px 11px 3px #53535329
+
+    }
+}
